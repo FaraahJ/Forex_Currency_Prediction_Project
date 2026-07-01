@@ -1,1 +1,1 @@
-# Forex_Currency_Prediction_Project
+# Currency_Prediction_Project
