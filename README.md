@@ -1,7 +1,7 @@
 # Project 1: Forex Currency Prediction
 This repository showcases the process of coding a Streamlit app to predict future exchange rates for 22 different currencies using a range of different programs:
 
-1. The 📁[Analysis](https://github.com/FaraahJ/Forex_Currency_Prediction_Project/tree/main/Analysis) folder contains the separate JGoogle Colab files showcasing the code used to visually explore the dataset for three modelling techniques:
+1. The 📁[Analysis](https://github.com/FaraahJ/Forex_Currency_Prediction_Project/tree/main/Analysis) folder contains the separate Google Colab files showcasing the code used to visually explore the dataset for three modelling techniques:
 - LSTM Modelling
 - ARIMA/SARIMA
 - Prophet Models (invalid notebook)
