@@ -9,7 +9,7 @@ This repository showcases the process of coding a Streamlit app to predict futur
 - ARIMA/SARIMA
 - Prophet Models
 
-Evaluation of these models are also calculated using MAE, MAPE and RMSE metrics.
+  Evaluation of these models are also calculated using MAE, MAPE and RMSE metrics.
 
 2. The [Excel](https://github.com/FaraahJ/Forex_Currency_Prediction_Project/blob/main/MAE%2C%20RMSE%2C%20MAPE%20Metrics%20-%20Sheet1.csv) file records the evaluation metrics and highlights which model was chosen to best represent each currency
 
